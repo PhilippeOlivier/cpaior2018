@@ -11,7 +11,7 @@
    viewBox="0 0 450 280"
    version="1.1"
    id="svg3907"
-   sodipodi:docname="cp_modelX.svg"
+   sodipodi:docname="cp_model5.svg"
    inkscape:version="0.92.2 2405546, 2018-03-11"
    inkscape:export-filename="/home/pholi/Documents/edu/Misc/Courses/INF7900/Presentation/img/model4.png"
    inkscape:export-xdpi="240"
@@ -32,7 +32,7 @@
      id="namedview3909"
      showgrid="false"
      inkscape:zoom="2.8284271"
-     inkscape:cx="164.63045"
+     inkscape:cx="165.33756"
      inkscape:cy="148.46782"
      inkscape:window-x="0"
      inkscape:window-y="31"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -271,219 +271,219 @@
      id="ellipse1040-6" />
   <circle
      r="14.556276"
-     cx="135.80849"
-     cy="202.6039"
+     cx="157.0217"
+     cy="201.54324"
      style="fill:#8b4513;stroke-width:0.22994243"
      id="ellipse5829" />
   <circle
      r="14.556276"
-     cx="186.87691"
-     cy="202.25314"
+     cx="208.09012"
+     cy="201.19249"
      style="fill:#8b4513;stroke-width:0.22994243"
      id="ellipse5831" />
   <circle
      r="14.556276"
-     cx="237.50992"
-     cy="201.68701"
+     cx="258.72311"
+     cy="200.62636"
      style="fill:#8b4513;stroke-width:0.22994243"
      id="ellipse5833" />
   <ellipse
      ry="2.2283721"
      rx="2.2283766"
-     cx="206.40349"
-     cy="204.1151"
+     cx="227.6167"
+     cy="203.05444"
      style="fill:#e510d3;stroke-width:0.22994243"
      id="ellipse5835" />
   <ellipse
      ry="2.2283721"
      rx="2.2283766"
-     cx="201.56534"
-     cy="215.15289"
+     cx="222.77855"
+     cy="214.09224"
      style="fill:#e510d3;stroke-width:0.22994243"
      id="ellipse5837" />
   <circle
      r="2.2283721"
-     cx="219.05862"
-     cy="206.74803"
+     cx="240.27184"
+     cy="205.68738"
      style="fill:#0066ff;stroke-width:0.22994243"
      id="ellipse5839" />
   <ellipse
      ry="2.2283766"
      rx="2.2283721"
-     cx="237.77966"
-     cy="220.05615"
+     cx="258.99286"
+     cy="218.9955"
      style="fill:#e51414;stroke-width:0.22994243"
      id="ellipse5841" />
   <ellipse
      ry="2.228374"
      rx="2.2283678"
-     cx="237.15756"
-     cy="183.28529"
+     cx="258.37076"
+     cy="182.22464"
      style="fill:#e51414;stroke-width:0.22994243"
      id="ellipse5843" />
   <ellipse
      ry="2.228374"
      rx="2.2283678"
-     cx="248.73672"
-     cy="187.41837"
+     cx="269.94992"
+     cy="186.35771"
      style="fill:#e51414;stroke-width:0.22994243"
      id="ellipse5845" />
   <circle
      r="2.2283721"
-     cx="255.2316"
-     cy="195.2252"
+     cx="276.44479"
+     cy="194.16455"
      style="fill:#e51414;stroke-width:0.22994243"
      id="ellipse5847" />
   <circle
      r="2.2283721"
-     cx="255.13412"
-     cy="206.67076"
+     cx="276.34732"
+     cy="205.61011"
      style="fill:#e51414;stroke-width:0.22994243"
      id="ellipse5849" />
   <ellipse
      ry="2.2283697"
      rx="2.2283678"
-     cx="249.68793"
-     cy="215.89064"
+     cx="270.90112"
+     cy="214.82999"
      style="fill:#e51414;stroke-width:0.22994211"
      id="ellipse5851" />
   <ellipse
      ry="2.228374"
      rx="2.2283766"
-     cx="225.67828"
-     cy="216.51494"
+     cx="246.89149"
+     cy="215.45428"
      style="fill:#ffcd94;stroke-width:0.22994281"
      id="ellipse5853" />
   <ellipse
      ry="2.2283721"
      rx="2.2283678"
-     cx="126.85532"
-     cy="219.22272"
+     cx="148.06853"
+     cy="218.16206"
      style="fill:#42cc1c;stroke-width:0.22994217"
      id="ellipse5855" />
   <ellipse
      ry="2.228374"
      rx="2.2283678"
-     cx="139.38333"
-     cy="220.7301"
+     cx="160.59654"
+     cy="219.66945"
      style="fill:#42cc1c;stroke-width:0.22994243"
      id="ellipse5857" />
   <circle
      r="2.2283721"
-     cx="151.02762"
-     cy="214.59572"
+     cx="172.24083"
+     cy="213.53506"
      style="fill:#42cc1c;stroke-width:0.22994243"
      id="ellipse5859" />
   <ellipse
      ry="2.228374"
      rx="2.2283697"
-     cx="118.71809"
-     cy="212.26781"
+     cx="139.93129"
+     cy="211.20715"
      style="fill:#42cc1c;stroke-width:0.22994243"
      id="ellipse5861" />
   <ellipse
      ry="2.228374"
      rx="2.2283678"
-     cx="155.02977"
-     cy="202.39435"
+     cx="176.24298"
+     cy="201.33369"
      style="fill:#ff8800;stroke-width:0.22994243"
      id="ellipse5863" />
   <circle
      r="2.2283721"
-     cx="151.09518"
-     cy="190.94847"
+     cx="172.3084"
+     cy="189.88782"
      style="fill:#ff8800;stroke-width:0.22994243"
      id="ellipse5865" />
   <circle
      r="2.2283721"
-     cx="142.30482"
-     cy="185.10873"
+     cx="163.51804"
+     cy="184.04808"
      style="fill:#ff8800;stroke-width:0.22994243"
      id="ellipse5867" />
   <ellipse
      ry="2.2283678"
      rx="2.2283721"
-     cx="116.40544"
-     cy="202.55844"
+     cx="137.61865"
+     cy="201.49779"
      style="fill:#f5d42d;stroke-width:0.22994217"
      id="ellipse5869" />
   <circle
      r="2.2283721"
-     cx="128.08498"
-     cy="184.71318"
+     cx="149.29819"
+     cy="183.65253"
      style="fill:#f5d42d;stroke-width:0.22994243"
      id="ellipse5871" />
   <circle
      r="2.2283721"
-     cx="119.58794"
-     cy="191.73285"
+     cx="140.80115"
+     cy="190.6722"
      style="fill:#f5d42d;stroke-width:0.22994243"
      id="ellipse5873" />
   <circle
      r="2.2283721"
-     cx="194.91408"
-     cy="185.32803"
+     cx="216.12729"
+     cy="184.26738"
      style="fill:#9d94ff;stroke-width:0.22994243"
      id="ellipse5875" />
   <ellipse
      ry="2.228374"
      rx="2.2283766"
-     cx="183.79414"
-     cy="183.71997"
+     cx="205.00735"
+     cy="182.65932"
      style="fill:#9d94ff;stroke-width:0.22994281"
      id="ellipse5877" />
   <circle
      r="2.2283766"
-     cx="202.84952"
-     cy="192.02086"
+     cx="224.06273"
+     cy="190.96021"
      style="fill:#9d94ff;stroke-width:0.2299429"
      id="ellipse5879" />
   <circle
      r="2.2283721"
-     cx="218.83536"
-     cy="195.72086"
+     cx="240.04857"
+     cy="194.6602"
      style="fill:#94faff;stroke-width:0.22994243"
      id="ellipse5881" />
   <ellipse
      ry="2.2283721"
      rx="2.2283766"
-     cx="225.1669"
-     cy="187.09377"
+     cx="246.38011"
+     cy="186.03311"
      style="fill:#94faff;stroke-width:0.22994243"
      id="ellipse5883" />
   <ellipse
      ry="2.228374"
      rx="2.2283678"
-     cx="172.69073"
-     cy="188.23007"
+     cx="193.90395"
+     cy="187.16942"
      style="fill:#40008a;stroke-width:0.22994243"
      id="ellipse5885" />
   <ellipse
      ry="2.2283766"
      rx="2.2283654"
-     cx="168.72198"
-     cy="198.79303"
+     cx="189.9352"
+     cy="197.73238"
      style="fill:#40008a;stroke-width:0.22994243"
      id="ellipse5887" />
   <ellipse
      ry="2.2283766"
      rx="2.2283654"
-     cx="177.8755"
-     cy="218.73674"
+     cx="199.08871"
+     cy="217.67609"
      style="fill:#40008a;stroke-width:0.22994243"
      id="ellipse5889" />
   <ellipse
      ry="2.2283766"
      rx="2.2283678"
-     cx="190.6322"
-     cy="220.14693"
+     cx="211.84541"
+     cy="219.08627"
      style="fill:#40008a;stroke-width:0.22994243"
      id="ellipse5891" />
   <ellipse
      ry="2.228374"
      rx="2.2283654"
-     cx="169.90305"
-     cy="210.27592"
+     cx="191.11626"
+     cy="209.21527"
      style="fill:#40008a;stroke-width:0.22994217"
      id="ellipse5893" />
   <text
@@ -496,7 +496,7 @@
        id="tspan6564"
        x="32.994354"
        y="208.06073"
-       style="font-size:8px;stroke-width:0.71691275">\Large \textbf{balance($\hspace{4.1cm}$)}</tspan></text>
+       style="font-size:8px;stroke-width:0.71691275">\Large \textbf{dispersion($\hspace{4.1cm}$)}</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:28.67650986px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.71691275"
@@ -656,4 +656,4 @@
          height="36.769554"
          x="330.21887"
          y="68.928627" /></flowRegion><flowPara
-       id="flowPara852"></flowPara></flowRoot></svg>
+       id="flowPara852" /></flowRoot></svg>
