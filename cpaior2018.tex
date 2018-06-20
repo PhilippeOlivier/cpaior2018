@@ -28,15 +28,16 @@
 \title[Comparison of Optimization Methods]{A Comparison of Optimization Methods for Multi-Objective Constrained Bin Packing Problems}
 
 \author[P. Olivier, A. Lodi, G. Pesant] {
-  P. Olivier$^1$, A. Lodi$^1$, G. Pesant$^1$ \\
+  P. Olivier$^{1,2}$, A. Lodi$^{1,2}$, G. Pesant$^{1}$ \\
   \vspace{0.5cm}
   \scriptsize $^1$École polytechnique de Montréal, Montreal, Canada \\
+  \scriptsize $^2$CERC \\
   \{philippe.olivier, andrea.lodi, gilles.pesant\}@polymtl.ca \\
   \vspace{1cm}
   \normalsize CPAIOR 2018
 }
 
-\date[CPAIOR 2018]{XX June 2018}
+\date[CPAIOR 2018]{29 June 2018}
 
 \begin{document}
 
@@ -698,18 +699,121 @@
 
 \begin{frame}
   \frametitle{\AutoSectionTitle}
-  \framesubtitle{Metaheuristics Model}
+  \framesubtitle{When to use each model?}
+  
+  \pause
+  
+  Short time limit, or only conflicts: \textbf{CP Model} \\~\\
 
-  \begin{itemize}
-  \item[$+$] Good early solutions \\~\\
-  \item[$+$] Scales well \\~\\~\\~\\~\\
+  \pause
+  
+  Small instance: \textbf{IP Model A} \\~\\
+  
+  \pause
+  
+  Near-optimal solution: \textbf{IP Model B} \\~\\
+  
+  \pause
+  
+  Large instance: \textbf{MH Model}
 
-    \pause
+\end{frame}
+
+
+% %---------------------------------------------------------------------------------------------------
+
+
+% \begin{frame}
+%   \frametitle{\AutoSectionTitle}
+%   \framesubtitle{Metaheuristics Model}
+
+%   \begin{itemize}
+%   \item[$+$] Good early solutions \\~\\
+%   \item[$+$] Scales well \\~\\~\\~\\~\\
+
+%     \pause
     
-  \item[$-$] No proof of optimality \\~\\    
-  \item[$-$] Poor balance
-  \end{itemize}
+%   \item[$-$] No proof of optimality \\~\\    
+%   \item[$-$] Poor balance
+%   \end{itemize}
 
+% \end{frame}
+
+
+% %---------------------------------------------------------------------------------------------------
+
+
+% \begin{frame}
+%   \frametitle{\AutoSectionTitle}
+%   \framesubtitle{CP Model}
+
+%   \begin{itemize}
+%   \item[$+$] Very good early solutions \\~\\
+%   \item[$+$] Proves optimality for small instances \\~\\
+%   \item[$+$] Quickly proves optimality or infeasibility for all instances when there are no costs \\~\\~\\~\\~\\
+
+%     \pause
+    
+%   \item[$-$] Hard to optimize with costs \\~\\
+%   \item[$-$] Limited symmetry breaking
+%   \end{itemize}
+
+% \end{frame}
+
+
+% %---------------------------------------------------------------------------------------------------
+
+
+% \begin{frame}
+%   \frametitle{\AutoSectionTitle}
+%   \framesubtitle{IP Model A}
+
+%   \begin{itemize}
+%   \item[$+$] Simple model \\~\\
+%   \item[$+$] Proves optimality for small instances \\~\\~\\~\\~\\
+
+%     \pause
+    
+%   \item[$-$] Inefficient \\~\\
+%   \item[$-$] Limited symmetry breaking
+%   \end{itemize}
+
+% \end{frame}
+
+
+% %---------------------------------------------------------------------------------------------------
+
+
+% \begin{frame}
+%   \frametitle{\AutoSectionTitle}
+%   \framesubtitle{IP Model B}
+
+%   \begin{itemize}
+%   \item[$+$] Near-optimal solutions \\~\\
+%   \item[$+$] No symmetry \\~\\
+%   \item[$+$] Provides a good lower bound \\~\\~\\~\\~\\
+
+%     \pause
+    
+%   \item[$-$] Complex \\~\\
+%   \item[$-$] No proof of optimality \\~\\    
+%   \item[$-$] Poor early solutions
+%   \end{itemize}
+
+% \end{frame}
+
+
+% %---------------------------------------------------------------------------------------------------
+
+
+\begin{frame}
+  \frametitle{Ongoing Work}
+  
+  \begin{center}
+    \includegraphics[scale=0.35]{future_noconflict-norm1-tl600.pdf}
+    \includegraphics[scale=0.35]{future_noconflict-norm2-tl600.pdf}
+  \end{center}
+  
 \end{frame}
 
 
@@ -717,69 +821,11 @@
 
 
 \begin{frame}
-  \frametitle{\AutoSectionTitle}
-  \framesubtitle{CP Model}
-
-  \begin{itemize}
-  \item[$+$] Very good early solutions \\~\\
-  \item[$+$] Proves optimality for small instances \\~\\
-  \item[$+$] Quickly proves optimality or infeasibility for all instances when there are no costs \\~\\~\\~\\~\\
-
-    \pause
-    
-  \item[$-$] Hard to optimize with costs \\~\\
-  \item[$-$] Limited symmetry breaking
-  \end{itemize}
-
-\end{frame}
-
-
-%---------------------------------------------------------------------------------------------------
-
-
-\begin{frame}
-  \frametitle{\AutoSectionTitle}
-  \framesubtitle{IP Model A}
-
-  \begin{itemize}
-  \item[$+$] Simple model \\~\\
-  \item[$+$] Proves optimality for small instances \\~\\~\\~\\~\\
-
-    \pause
-    
-  \item[$-$] Inefficient \\~\\
-  \item[$-$] Limited symmetry breaking
-  \end{itemize}
-
-\end{frame}
-
-
-%---------------------------------------------------------------------------------------------------
-
-
-\begin{frame}
-  \frametitle{\AutoSectionTitle}
-  \framesubtitle{IP Model B}
-
-  \begin{itemize}
-  \item[$+$] Near-optimal solutions \\~\\
-  \item[$+$] No symmetry \\~\\
-  \item[$+$] Provides a good lower bound \\~\\~\\~\\~\\
-
-    \pause
-    
-  \item[$-$] Complex \\~\\
-  \item[$-$] No proof of optimality \\~\\    
-  \item[$-$] Poor early solutions
-  \end{itemize}
-
-\end{frame}
-
-
-%---------------------------------------------------------------------------------------------------
-
-
-\begin{frame}
+  
+  \begin{center}
+    \includegraphics[scale=0.4]{publicity.pdf}
+  \end{center}
+  
 \end{frame}
 
 
